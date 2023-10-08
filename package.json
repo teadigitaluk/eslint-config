@@ -1,6 +1,6 @@
 {
   "name": "@teadigitaluk/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.0-canary.1",
   "description": "Tea Digital's ESLint Config",
   "homepage": "https://github.com/teadigitaluk/eslint-config#readme",
   "bugs": {
